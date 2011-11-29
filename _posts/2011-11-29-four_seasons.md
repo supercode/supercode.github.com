@@ -6,7 +6,7 @@ title: 《四季》
 {{ page.title }}
 ================
 
-<p class="meta">Wed Nov 25 2011 - China</p>
+<p class="meta">Wed Nov 29 2011 - China</p>
 <p> <img src="/images/four_seasons.jpg" alt=""> </p>
 <embed name=player src="http://www.ygshuma.com/vod/test.mp3" width="0" height="0" border="0" autostart="true">
 <hr />
