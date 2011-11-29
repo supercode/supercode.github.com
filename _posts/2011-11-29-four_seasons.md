@@ -1,0 +1,68 @@
+---
+layout: post
+title: 《四季》
+---
+
+{{ page.title }}
+================
+
+<p class="meta">Wed Nov 25 2011 - China</p>
+<p> <img src="/images/cinderella.jpg" alt=""> </p>
+<embed name=player src="http://d3cctv.com/import/bgmusic.mp3" width="0" height="0" border="0" autostart="true">
+<hr />
+
+<p>怎么会迷上你</p>
+
+<p>我在问自己</p>
+
+<p>我什么都能放弃</p>
+
+<p>居然今天难离去</p>
+
+<p>你并不美丽</p>
+
+<p>但是你可爱至极</p>
+
+<p>哎呀灰姑娘</p>
+
+<p>我的灰姑娘</p>
+
+<p></p>
+
+<p>我总在伤你的心</p>
+
+<p>我总是很残忍</p>
+
+<p>我让你别当真</p>
+
+<p>因为我不敢相信</p>
+
+<p>你如此美丽</p>
+
+<p>而且你可爱至极</p>
+
+<p>哎呀灰姑娘</p>
+
+<p>我的灰姑娘</p>
+
+<p></p>
+
+<p>也许你不曾想到我的心会疼</p>
+
+<p>如果这是梦</p>
+
+<p>我愿长醉不愿醒</p>
+
+<p></p>
+
+<p>我曾经忍耐</p>
+
+<p>我如此等待</p>
+
+<p>也许再等你到来</p>
+
+<p>也许再等你到来</p>
+
+<p>也许再等你到来</p>
+
+<hr />
